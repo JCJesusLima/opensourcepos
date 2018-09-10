@@ -3,6 +3,8 @@
 $lang["module_attributes"] = "";
 $lang["module_attributes_desc"] = "";
 $lang["module_both"] = "Ambos";
+$lang["module_cashups"] = "";
+$lang["module_cashups_desc"] = "";
 $lang["module_config"] = "Configurações";
 $lang["module_config_desc"] = "Alterar configurações do sistema.";
 $lang["module_customers"] = "Clientes";

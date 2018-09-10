@@ -35,6 +35,7 @@ $lang["receivings_register"] = "Itens Recebimento";
 $lang["receivings_requisition"] = "Requisição";
 $lang["receivings_return"] = "Devolução";
 $lang["receivings_select_supplier"] = "Selecionar Fornecedor (Opcional)";
+$lang["receivings_ship_pack"] = "";
 $lang["receivings_start_typing_supplier_name"] = "Digite o nome do fornecedor...";
 $lang["receivings_stock"] = "Estoque";
 $lang["receivings_stock_destination"] = "Destinação do estoque";

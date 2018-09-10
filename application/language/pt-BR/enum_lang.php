@@ -1,4 +1,5 @@
-<?php
+<?php 
+
 $lang["enum_half_down"] = "Metade para baixo";
 $lang["enum_half_even"] = "Metade";
 $lang["enum_half_five"] = "Metade cinco";
